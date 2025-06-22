@@ -1,3 +1,4 @@
 streamlit
 ndef
 threading
+nfcpy
